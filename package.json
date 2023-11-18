@@ -1,0 +1,16 @@
+{
+  "name": "true-introduction-celebrate-3ewls",
+  "productName": "true-introduction-celebrate-3ewls",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Sina",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "27.0.4"
+  }
+}
